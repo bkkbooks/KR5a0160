@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5a0160/HFL/v1/juan/0
+seq: 0
+front:
+  text: 易數鈎隱圖序雲一
+  hash: sha256:6e8d40ff9ac137c574c129dd45f531f52027da62bf8bf37780539922ca8c8048
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5a0160_HFL_000-001a, image: hfl/0071/0071-004.png}
+body:
+  text: 三衢劉牧撰夫易者隂陽氣交之謂也若夫隂陽未交則四象未立八卦未分則萬物安從而生哉是故兩儀變易而生四象四象變易而生八卦重卦六十四卦於是乎天下之能事畢矣夫卦者聖人設之觀於象也象者形上之應原其本則形由象生象由数設捨其數則無以見四象所由之宗矣是故仲尼之讃易也必舉天地之極數以明成變化而行鬼神之道則知易之爲書必極數以知其本也詳夫注䟽之家至于分經析義妙盡精硏及乎解釋天地錯綜之數則語惟簡略與繫辭不偶所以學者難曉其義也今採摭天地竒偶之數自太極生兩儀而下至于復卦凡五十五位㸃之成圖於逐圖下各釋其義庶覽之者易曉耳夫易道淵邈雖往哲艱窺於至𧷤牧也蕞生祖述誠媿其狂簡然則象有定位變有定數不能妄爲之穿鑿耳博雅君子試爲詳馬
+  hash: sha256:2abe2d675bf780349e5a82cdd56bc30552af3007ce2bf00c0ff1319ccdcb37b4
+metadata:
+  title: 易數鉤隱圖
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+  date: '2015-08-28 23:39:19.404209'
+  source:
+    repository: kanripo
+    path: KR5a0160/KR5a0160_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:ff7ba0de156509764b8e172a986f50ec09a72cd6c135e264d57bcfe433cccc23
